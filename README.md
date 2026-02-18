@@ -59,7 +59,7 @@ Through this project, I learned:
 
 # Project Report
 The full step-by-step report with screenshots is available here:
-[Full Report](report/The_Blue_Room_Penetration_Test_Report.pdf)
+[Full Report](The_Blue_Room_Penetration_Test_Report.pdf)
 
 
 # Author
